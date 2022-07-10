@@ -1,4 +1,5 @@
 # Device Tree for Mi Translator (FYJ01QP)
+`Pre-Development`
 
 ## Spec Sheet
 
