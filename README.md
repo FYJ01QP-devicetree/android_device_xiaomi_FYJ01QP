@@ -21,3 +21,4 @@
 ## Device Picture
 
 ![Mi Translator](https://2b.zol-img.com.cn/product/204/571/cema8fCY38VYA.jpg "Mi Translator")
+This branch is for building LineageOS 15.1 Firmware.
